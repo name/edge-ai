@@ -1,0 +1,12 @@
+{
+	"name": "Edge-AI",
+	"version": "0.0.1",
+	"manifest_version": 3,
+	"description": "Microsoft Edge Browser extension to ask questions about the current page.",
+	"icons": {
+		"128": "icons/edge-ai-128.png"
+	},
+	"action": {
+		"default_popup": "popup/popup.html"
+	}
+}
